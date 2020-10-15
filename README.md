@@ -6,7 +6,8 @@ Installation:
     pip3 install worldpops
     
 Get population:
+
     country_info.population('{country name}')
     
 All capabilities:
-    https://github.com/gadhagod/worldpops/blob/master/worldpops
+    https://github.com/gadhagod/worldpops/
